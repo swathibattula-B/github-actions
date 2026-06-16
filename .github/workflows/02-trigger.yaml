@@ -15,5 +15,5 @@ jobs:
       #- name: Manual dispatch
       # run: echo "manually dispatched" # The command to execute
       - name: feature branch push
-        run: echo "feature branch push"
+        run: echo "main branch push"
       
